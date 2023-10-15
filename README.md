@@ -61,5 +61,5 @@ bun preview # or `bun preview`
 The production build will generate client and server modules by running both client and server build commands. The build command will use Typescript to run a type check on the source code.
 
 ```shell
-bun build # or `bun build`
+bun build # or `bun build` 
 ```
